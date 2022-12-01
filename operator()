@@ -1,0 +1,41 @@
+
+x = "visulas are written by those people who have writen those intruders having those risdicoulous teaser"
+y = "the temperature are gonna while so the peoples are fillling issues"
+print(x)
+print(y)
+print(x.lower())
+print(y.upper())
+print(x.upper())
+print(y.lower())
+print(x.split())
+print(x.replace('g', 'a'))
+print(y.replace('g', 'a'))
+print(x.split())
+# arthemetic operator
+print(10+543)
+print(346 == 875)
+print(566*5)
+print(2364-7367)
+print(2424/12)
+print(74528//2)
+print(235**2)
+# logical operotr
+print(9878 == 8)
+print(8678 > 8787)
+print(5469 != 8798)
+print(345 > 765)
+print(567 <= 78)
+# 91681
+x = 6
+print(x < 7 and x > 3)
+print(x < 5//x < 8)
+# assibnmenr operaator
+a = 8
+print(a)
+a += 7
+print(a)
+a -= 9
+print(a)
+a *= 5
+print(a)
+3
