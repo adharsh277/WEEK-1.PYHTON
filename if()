@@ -1,0 +1,35 @@
+a = 983
+b = 955
+print(a+b)
+# 567
+a = 674
+b = 198
+if b < a:
+    print("jhdgu")
+# 2445
+c = 767878
+d = 64878
+if d > c:
+    print("jhfis")
+elif c == d:
+    print("kjskhfncub")
+else:
+    print("rahel varkacha")
+# 35463
+e = 989097
+f = 8277478
+if e < f:
+    print("you are good")
+else:
+    print("you are the stupid person i have ever seen")
+    # shorthand if
+    a = 86329887
+    b = 283764767
+if a > b:
+    print('yfg')
+if a < b:
+    print("jdfgif")
+    # 5235sdfjsdj
+# shorthandelid
+if a > b:
+    print("dcivc")
